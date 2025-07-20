@@ -68,10 +68,10 @@ Each model was trained on preprocessed multivariate data (`Close`, `Volume`, etc
 **BBCA Close**
 | Model               | RMSE     | MAE      | MAPE     |
 |--------------------|----------|----------|----------|
-| ARIMA              | 124.1    | 95.0     | 0.9%     |
-| Vanilla LSTM       | 200.5    | 160.7    | 1.6%     |
-| Bidirectional LSTM | 227.8    | 192.0    | 1.9%     |
-| Stacked LSTM       | 231.5    | 188.0    | 1.9%     |
+| ARIMA              | 124,1    | 95,0     | 0,9%     |
+| Vanilla LSTM       | 200,5    | 160,7    | 1,6%     |
+| Bidirectional LSTM | 227,8    | 192,0    | 1,9%     |
+| Stacked LSTM       | 231,5    | 188,0    | 1,9%     |
 
 **BBCA Volume**
 | Model               | RMSE         | MAE          | MAPE     |
