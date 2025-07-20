@@ -65,7 +65,7 @@ Each model was trained on preprocessed multivariate data (`Close`, `Volume`, etc
 
 ## 🚀 Results Summary
 
-- **BBCA Close**
+**BBCA Close**
 | Model               | RMSE     | MAE      | MAPE     |
 |--------------------|----------|----------|----------|
 | ARIMA              | 124.1    | 95.0     | 0.9%     |
@@ -73,7 +73,7 @@ Each model was trained on preprocessed multivariate data (`Close`, `Volume`, etc
 | Bidirectional LSTM | 227.8    | 192.0    | 1.9%     |
 | Stacked LSTM       | 231.5    | 188.0    | 1.9%     |
 
-- **BBCA Volume**
+**BBCA Volume**
 | Model               | RMSE         | MAE          | MAPE     |
 |--------------------|--------------|--------------|----------|
 | ARIMA              | 52.662.514,0 | 27.808.104,2 | 36,9%    |
